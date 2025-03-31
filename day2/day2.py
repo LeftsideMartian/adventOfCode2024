@@ -53,8 +53,8 @@ def part2(reports):
 
     return numOfSafeReports
 
-myInput = "day2.txt"
-testInput = "day2TestInput.txt"
+myInput = "day2/day2.txt"
+testInput = "day2/day2TestInput.txt"
 
 reports = getReports(myInput)
 

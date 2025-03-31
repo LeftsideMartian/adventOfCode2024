@@ -59,8 +59,8 @@ def part2(memory):
     return sum
 
 
-myInput = "day3.txt"
-testInput = "day3TestInput.txt"
+myInput = "day3/day3.txt"
+testInput = "day3/day3TestInput.txt"
 
 memory = readMemory(myInput)
 
